@@ -1,0 +1,28 @@
+{
+  "name": "uds-request",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crayon-shin-chan/uds-request.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crayon-shin-chan/uds-request/issues"
+  },
+  "homepage": "https://github.com/crayon-shin-chan/uds-request#readme",
+  "dependencies": {
+    "ac-node-sdk": "^1.0.1",
+    "xml2js": "^0.4.19"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.5",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.1"
+  }
+}
